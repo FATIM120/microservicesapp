@@ -1,3 +1,5 @@
+// emprunter\src\main\java\com\org\emprunt\entities\Emprunter.java
+
 package com.org.emprunt.entities;
 
 import jakarta.persistence.*;

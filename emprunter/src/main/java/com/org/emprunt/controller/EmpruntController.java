@@ -28,6 +28,6 @@ public class EmpruntController {
 
     @GetMapping
     public List<EmpruntDetailsDTO> getAllEmprunts() {
-        return service.getAllEmprunts();
+        return service.getAllEmpruntDetails();
     }
 }
